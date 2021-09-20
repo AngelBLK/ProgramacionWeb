@@ -111,10 +111,6 @@ body {
     grid-row: 2 / -1;
 }
 
-.article {
-    
-}
-
 .article__title {
     font-size: 24px;
     font-weight: 500;
